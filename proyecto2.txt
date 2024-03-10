@@ -1,0 +1,2 @@
+Versionamiento local web 2
+Aplicar estandares de codificacion
